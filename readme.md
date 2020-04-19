@@ -15,3 +15,6 @@ with established chemical databases for structural validity.
 improvement in the AUC values compared to the recently best model with a boost of 5%, from 0.904 to 0.950. In addition, based on our 
 findings, molecular fingerprint-embedded features were proven as effective tools for future biological and biochemical studies besides 
 the application of classic molecular fingerprints.
+
+**Availability and implementation** Source code and data are available on [GitHub](https://github.com/mldlproject/2020-DILI-CNN-MFE)
+
