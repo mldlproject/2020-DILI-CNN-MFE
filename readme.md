@@ -1,5 +1,5 @@
 # Predicting DILI compounds using CNNs and MF-embedded Features
-##### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, P. H. Le, L. Le∗, and B. P. Nguyen∗
+### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, P. H. Le, L. Le∗, and B. P. Nguyen∗
 
 ![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/FP2VEC_DILI-Graphical_abstract.jpg)
 
