@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/FP2VEC_DILI-Graphical_abstract.jpg)
 
-**Abstract**: As a critical issue in drug discovery and development, drug-induced liver injury (DILI) leads to failures in 
+**Motivation**: As a critical issue in drug discovery and development, drug-induced liver injury (DILI) leads to failures in 
 clinical trials as well as retractions of on-market approved drugs. Therefore, it is important to identify DILI compounds in 
 early-stage through in silico and in vivo studies. It is difficult using conventional safety testing methods since the predictive 
 power of most existing frameworks is insufficiently effective to address this pharmacological issue. In our study, we propose an 
