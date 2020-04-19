@@ -1,6 +1,8 @@
 # Predicting DILI compounds using CNNs and MF-embedded Features
 ##### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, P. H. Le, L. Le∗, and B. P. Nguyen∗
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 **Abstract**: As a critical issue in drug discovery and development, drug-induced liver injury (DILI) leads to failures in 
 clinical trials as well as retractions of on-market approved drugs. Therefore, it is important to identify DILI compounds in 
 early-stage through in silico and in vivo studies. It is difficult using conventional safety testing methods since the predictive 
