@@ -1,4 +1,4 @@
-# Predicting DILI compounds using CNNs and MF-embedded Features
+# Predicting DILI compounds using CNN and MF-embedded Features
 
 #### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, P. H. Le, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
