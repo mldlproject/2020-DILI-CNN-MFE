@@ -2,7 +2,7 @@
 
 #### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, P. H. Le, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
-![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/FP2VEC_DILI-Graphical_abstract.jpg)
+![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/DILI_abs.svg)
 
 **Motivation**: As a critical issue in drug discovery and development, drug-induced liver injury (DILI) leads to failures in 
 clinical trials as well as retractions of on-market approved drugs. Therefore, it is important to identify DILI compounds in 
