@@ -2,8 +2,11 @@
 
 #### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, P. H. Le, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
+<center>
 
 ![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/DILI_abs.svg)
+
+</center>
 
 
 ## Motivation
