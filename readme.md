@@ -16,8 +16,7 @@ NLP-inspired computational framework using convolutional neural networks and mol
 set and independent test set have 1597 and 322 compounds, respectively. These samples were collected from previous studies and matched 
 with established chemical databases for structural validity.
 
-<div style="text-align: right"> your-text-here </div>
-
+<p style='text-align: justify;'>Lorem **ipsum** dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque *penatibus* et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
 ## Results
 Our study comes up with the averaged accuracy of 0.735, MCC of 0.525, and AUC of 0.950. Our results show a significant 
 improvement in the AUC values compared to the recently best model with a boost of 5%, from 0.904 to 0.950. In addition, based on our 
