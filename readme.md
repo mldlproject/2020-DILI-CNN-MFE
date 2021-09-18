@@ -25,7 +25,7 @@ the application of classic molecular fingerprints.
 Source code and data are available on [GitHub](https://github.com/mldlproject/2020-DILI-CNN-MFE)
 
 ## Citation
-Nguyen-Vo, T. H., Nguyen, L., Do, N., Le, P. H., Nguyen, T. N., Nguyen, B. P., & Le, L. (2020). Predicting Drug-Induced Liver Injury Using Convolutional Neural Network and Molecular Fingerprint-Embedded Features. ACS omega, 5(39), 25432-25439. [DOI: 10.1021/acsomega.0c03866](https://pubs.acs.org/doi/10.1021/acsomega.0c03866)
+Thanh-Hoang Nguyen-Vo, Loc Nguyen, Nguyet Do, Phuc H. Le, Thien-Ngan Nguyen, Binh P. Nguyen, and Ly Le. Predicting Drug-Induced Liver Injury Using Convolutional Neural Network and Molecular Fingerprint-Embedded Features. *ACS Omega* (2020), 5(39), 25432-25439. [DOI: 10.1021/acsomega.0c03866](https://pubs.acs.org/doi/10.1021/acsomega.0c03866)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
