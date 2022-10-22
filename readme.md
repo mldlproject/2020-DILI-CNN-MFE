@@ -25,7 +25,7 @@ the application of classic molecular fingerprints.
 Source code and data are available on [GitHub](https://github.com/mldlproject/2020-DILI-CNN-MFE)
 
 ## Web-based Application
-- Source 1: [Click here](http://14.231.233.168:8001/)
+- Source 1: [Click here](http://14.177.208.167:8001/)
 - Source 2: [Click here](http://124.197.54.240:8001/)
 
 ## Citation
